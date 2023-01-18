@@ -236,6 +236,7 @@ header {
 .customers__list {
     display: flex;
     gap: 30px;
+    justify-content: center;
 }
 .customers__wrapper {
     border: 1px solid var(--icon);
@@ -243,7 +244,7 @@ header {
     width: 170px;
     height: 92px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     cursor: pointer;
 }
