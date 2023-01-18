@@ -243,7 +243,7 @@ header {
     width: 170px;
     height: 92px;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     cursor: pointer;
 }
